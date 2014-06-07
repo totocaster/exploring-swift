@@ -65,10 +65,10 @@ myNumbres                   // [7,7]
 
 
 /* This is multiline comment
-    
+
     /* So this is, but interesting part is one line below */
-    
-    This line, would be iligal in some langiages,
+
+    This line, would be illegal in some languages,
     but in Swift also belongs to comment scope above.
 */
 
